@@ -2,9 +2,9 @@
 ## High Level Test plan:
 | ID    | Description                             | Expected O/P | Actual O/P |
 |-------|-----------------------------------------| ------------ | ---------- |
-| H_01  |Working of STM32F4-Discovery |SUCCESS       |SUCCESS     |   
-| H_02  |Glowing LEDs as per the requirements |SUCCESS       |SUCCESS     |
-| H_03  |User Button Working                      |UNSUCCESSFUL        |SUCCESS     |   
+| H_01  |Working of STM32F4-Discovery             |SUCCESS       |SUCCESS     |   
+| H_02  |Glowing LEDs as per the requirements     |SUCCESS       |SUCCESS     |
+| H_03  |User Button Working                      |SUCCESS       |SUCCESS     |   
 
 
 ## Low Level Test Plan:
