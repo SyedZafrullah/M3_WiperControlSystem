@@ -3,7 +3,7 @@
 |----|-------------|--------|
 | HLR1 | Working of STM32F4-Discovery | Implemented |
 | HLR2 | LEDs Glows sequentially| Implemented |
-| HLR3 | With pressing of User Push Button Frequency of Glowing LEDs changes | NOT Implemented | 	
+| HLR3 | With pressing of User Push Button Frequency of Glowing LEDs changes | Implemented | 	
 
 # Low Level Requirements
 | ID | Description | Status |
