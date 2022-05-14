@@ -32,6 +32,7 @@ Mostly used in vehicles like car or bus or trucks to operate the WindShield Wipe
 
 **Threats:**
 - High electrical resistance could cause the sensor to overheat.
+- Economical crisis.
 
 # **4W and 1H:**
 
@@ -42,13 +43,13 @@ To work as Windshield Wiping system in vehicles
 Windshield Wiping system for vehicles. 
 
 **Where:**
-Vehicles and Industries
+Automobiles and Industries.
 
 **When:**
 In vehicles as Windshield Wiper. In Industries for robotic applications.
 
 **How:**
-By installing the system in Vehicles and Industries.
+By installing the system in Automobiles and Industries.
 
 
 # High Level Requirements
