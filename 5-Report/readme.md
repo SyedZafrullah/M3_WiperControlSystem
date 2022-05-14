@@ -9,12 +9,14 @@ The Wiper Control System is used to control the operational speed of a wiper to 
 3. LEDs.
 4. Power supply.
 
+# Block Diagram
+![blockDiagram](https://user-images.githubusercontent.com/101913331/168448636-cf8a9e5a-4b56-4d8d-bc3d-d0ee360f5aac.png)
+
+# Flow Chart
+
 # Working
 
 In this project we have used a STM32F4-Discovery Board which already consists of LEDs of various colours like Red, Blue, Green, Orange. The working of this wiper control system is visualised by working of this LEDs at different frequency ranges. At first the Red LED is ON when the user button is pressed and held for 2 seconds. This represents the system is ON, this is the Ignition Key Position at Acc in Wiper Control System. With the system in ON condition the Blue, Green and Orange LEDs turns ON one at a time with the set frequency, The frequency changes on every alternate key press, 3 frequency levels with 1, 4 and 8 Hz. With variation in frequency the Blue, Green, Orange LEDs turns on at faster time intervals. This represents the Wiper ON in Wiper Control System. The LED glow pattern stops during the 4th press. This represents the Wiper OFF in Wiper Control System. By the next press of user button the process is repeated with sequencial LED glow pattern. Finally the Red LED is OFF when the user button is pressed and held for 2 seconds. This represents the system is OFF, this is the Ignition Key Position at Lock in Wiper Control System.
-
-# Block Diagram
-![blockDiagram](https://user-images.githubusercontent.com/101913331/168448636-cf8a9e5a-4b56-4d8d-bc3d-d0ee360f5aac.png)
 
 # Features
 - Low Cost.
