@@ -1,3 +1,4 @@
+# REPORT
 # Introduction
 
 The Wiper Control System is used to control the operational speed of a wiper to  wash the Windshield of cars and other heavy vehicles like buses and trucks in accordance with rain conditions. It has been implemented by using STM32F407VG Microcontroller in a workspace software named STM32CubeIDE using C programming. We can install this system in cars or buses or trucks to clean the Windshield. The main application of the system is to prevent the vehicles from accidents during rainy climates where the driver may forget to operate the windshield so this system operates the windshield.The speed of the windshield can also be varied depending upon the amount of rain. This is same as varying the frequencies of LEDs by pressing user button. Accurate sensing information allows the processor to operate the system so that the electronic modules can optimize their performance and maximize their reliability no matter in any working conditions.
@@ -93,3 +94,6 @@ By installing the system in Automobiles and Industries.
 | LLR3 | with second pressing of user button LEDs Glow sequentially in 4Hz frequency | Yet to Implement |
 | LLR4 | with third pressing of user button LEDs Glow sequentially in 8Hz frequency | Yet to Implement |
 | LLR5 | when user button pressed for 2 seconds Red LED turn OFF | Yet to Implement |
+
+# Conclusion
+The Wiper Control in automobiles has been studied and implemented using an STM32F407VG Board.
