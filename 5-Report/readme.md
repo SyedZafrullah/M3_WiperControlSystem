@@ -28,6 +28,19 @@ In this project we have used a STM32F4-Discovery Board which already consists of
 
 Mostly used in vehicles like car or bus or trucks to operate the WindShield Wiper during rainy conditions or washing. It can also be used in Industriesfor high level robotic applications like robotic arm and for packing purposes. It takes an analog input which is manual and in some cases may be automatic by using sensors. Today’s modern vehicles are smart! Automobiles today have the ability to prevent front and rear end collisions; they help drivers accelerate and stop safely on cold and icy weather conditions;  an often overlooked smart system is the vehicle’s climate control. Most vehicles today can let you set the climate controls to automatic. Automatically the system works when it senses the windshield is covered with water.
 
+# OUTPUT IMAGES
+### System OFF
+![SystemOFF](https://user-images.githubusercontent.com/101913331/168463297-93ac175f-e9b6-43ea-85fc-6cddb1d7a77f.png)
+### User Button pressed for 2 seconds
+![onlyRED](https://user-images.githubusercontent.com/101913331/168463217-827d0623-bba9-4b13-974e-937add293a82.png)
+### Wiper Action
+![REDBLUE](https://user-images.githubusercontent.com/101913331/168463225-b4548dc2-6bd6-4fad-ae37-c0e731e6a2ca.png)
+![REDGREEN](https://user-images.githubusercontent.com/101913331/168463228-76466d5b-7b2e-4870-a613-50c335c015ab.png)
+![REDORANGE](https://user-images.githubusercontent.com/101913331/168463234-7fac77d2-33e4-4aa1-9b81-e05428ac7329.png)
+### Working of  Wiper control System
+![working](https://user-images.githubusercontent.com/101913331/168463298-c27b411e-f0e8-4dc1-9d76-a9ae235f64ee.png)
+
+
 # **SWOT Analysis:**
 
 **Strength:**
@@ -76,7 +89,7 @@ By installing the system in Automobiles and Industries.
 | ID | Description | Status |
 |----|-------------|--------|
 | LLR1 | when user button pressed for 2 seconds Red LED turn ON | Implemented |
-| LLR2 | with first pressing of user button LEDs Glow sequentially in 1Hz frequency | Implemented |
-| LLR3 | with second pressing of user button LEDs Glow sequentially in 4Hz frequency | Implemeted |
-| LLR4 | with third pressing of user button LEDs Glow sequentially in 8Hz frequency | Implemeted |
-| LLR5 | when user button pressed for 2 seconds Red LED turn OFF | Implemented |
+| LLR2 | with first pressing of user button LEDs Glow sequentially in 1Hz frequency | Yet to Implement |
+| LLR3 | with second pressing of user button LEDs Glow sequentially in 4Hz frequency | Yet to Implement |
+| LLR4 | with third pressing of user button LEDs Glow sequentially in 8Hz frequency | Yet to Implement |
+| LLR5 | when user button pressed for 2 seconds Red LED turn OFF | Yet to Implement |
