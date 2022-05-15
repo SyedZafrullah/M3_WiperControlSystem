@@ -26,7 +26,7 @@ The xPack QEMU Arm is a standalone cross-platform binary distribution of QEMU, w
 | ID | Description | Status |
 |----|-------------|--------|
 | LLR1 | when user button pressed for 2 seconds Red LED turn ON | Implemented |
-| LLR2 | with first pressing of user button LEDs Glow sequentially in 1Hz frequency | Implemented |
-| LLR3 | with second pressing of user button LEDs Glow sequentially in 4Hz frequency | Implemeted |
-| LLR4 | with third pressing of user button LEDs Glow sequentially in 8Hz frequency | Implemeted |
-| LLR5 | when user button pressed for 2 seconds Red LED turn OFF | Implemented |
+| LLR2 | with first pressing of user button LEDs Glow sequentially in 1Hz frequency | Yet to Implement |
+| LLR3 | with second pressing of user button LEDs Glow sequentially in 4Hz frequency | Yet to Implement |
+| LLR4 | with third pressing of user button LEDs Glow sequentially in 8Hz frequency | Yet to Implemet |
+| LLR5 | when user button pressed for 2 seconds Red LED turn OFF | Yet to Implement |
